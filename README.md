@@ -1,6 +1,8 @@
 # React Series: Building a Simple Instagram Clone
 
-This is a demo application showing how to build a simple Instagram Clone using React and GraphQL with Realtime Functionality and Offline Support with Service Workers.You can read about how it was created [ on Pushers's blog ](https://blog.pusher.com/author/chris-nwamba)
+This is a demo application showing how to build a simple Instagram Clone using React and GraphQL with Realtime Functionality and Offline Support with Service Workers.
+
+View tutorial: [Part 1](https://pusher.com/tutorials/instagram-clone-part-1) [Part 2](https://pusher.com/tutorials/instagram-clone-part-2) [Part 3](https://pusher.com/tutorials/instagram-clone-part-3) [Part 4](https://pusher.com/tutorials/instagram-clone-part-4)
 
 <img src="demo/demo.png" alt="Instagram clone">
 
